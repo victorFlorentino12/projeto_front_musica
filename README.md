@@ -5,5 +5,5 @@
 To compile the project nedds install:
 
 ```
-npm install javascript
+node app.js
 ```
